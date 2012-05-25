@@ -1,0 +1,15 @@
+firm:
+  layout:       'layout' # layout rendered on public pages
+  sass_dir:     'trst/assets/stylesheets/demo'
+  css_dir:      'public/stylesheets/demo'
+  images_dir:   'public/images/demo'
+  css_path:     '/stylesheets/demo'
+  images_path:  '/images/demo'
+  i18n_path:    'demo'
+  head_title:   'TrustSys'
+  header_text:  'DEMO'
+  footer_text:  '&copy; 2005-2012 kfl62'
+  footer_title: 'Ferenc-Loránt Kiss'
+  db_devel:     'demo_devel'
+  db_test:      'demo_test'
+  db_prod:      'demo_prod'
