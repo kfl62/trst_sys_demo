@@ -1,6 +1,6 @@
 firm:
   public:
-    controller:     'public_demo'
+    controller:     'public'
     views:          'demo'
     layout:         'demo'
     page:
